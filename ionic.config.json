@@ -1,5 +1,7 @@
 {
   "name": "calculadora-imc",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
